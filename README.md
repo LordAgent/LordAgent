@@ -1,5 +1,4 @@
 <h1>Hallo, ich bin's Mika Engels! 👋</h1>
-<hr>
 <h3>Programmiersprachen:</h3>
 <img src="https://image.similarpng.com/very-thumbnail/2021/12/Python-programming-logo-on-transparent-background-PNG.png" width=50 height=50>
 
