@@ -2,7 +2,6 @@
 <h3>Programmiersprachen:</h3>
 <ol>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/947px-Lua-Logo.svg.png" width=50 height=50>
-  <img src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-thumbnail.png" width=50 height=50>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" width=50 height=50>
   <img src="https://i0.wp.com/futuresolutionsonline.co.uk/wp-content/uploads/2023/04/mySQL-logo.png?fit=300%2C300&ssl=1" width=50 height=50>
 </ol>
